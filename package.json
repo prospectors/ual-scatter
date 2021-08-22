@@ -1,6 +1,6 @@
 {
   "name": "ual-scatter",
-  "version": "0.3.0",
+  "version": "10.3.0",
   "main": "dist/index.js",
   "license": "MIT",
   "author": {
@@ -20,11 +20,11 @@
     "test": "jest"
   },
   "dependencies": {
-    "@scatterjs/core": "2.7.51",
-    "@scatterjs/eosjs2": "1.5.33",
-    "elliptic": "6.5.2",
-    "eosjs": "21.0.1-rc1",
-    "universal-authenticator-library": "0.3.0"
+    "@scatterjs/core": "^2.7.54",
+    "@scatterjs/eosjs2": "^1.5.36",
+    "elliptic": "^6.5.4",
+    "eosjs": "^22.1.0",
+    "universal-authenticator-library": "^0.3.0"
   },
   "jest": {
     "verbose": false,
@@ -48,15 +48,15 @@
     "testEnvironment": "jsdom"
   },
   "devDependencies": {
-    "@babel/runtime": "^7.8.7",
-    "@blockone/eslint-config-blockone": "^3.0.0",
-    "@types/elliptic": "^6.4.12",
-    "@types/jest": "^25.1.4",
-    "@types/node": "^13.9.0",
-    "eslint": "^6.8.0",
-    "jest": "^25.1.0",
-    "ts-jest": "^25.2.1",
-    "typescript": "^3.8.3"
+    "@babel/runtime": "^7.15.3",
+    "@blockone/eslint-config-blockone": "^4.0.2",
+    "@types/elliptic": "^6.4.13",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^16.7.1",
+    "eslint": "^7.32.0",
+    "jest": "^27.0.6",
+    "ts-jest": "^27.0.5",
+    "typescript": "^4.3.5"
   },
   "repository": {
     "type": "git",
