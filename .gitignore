@@ -49,6 +49,10 @@ jspm_packages/
 # Optional npm cache directory
 .npm
 
+# yalc
+.yalc
+yalc.lock
+
 # Optional eslint cache
 .eslintcache
 
