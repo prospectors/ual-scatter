@@ -1,6 +1,6 @@
 {
   "name": "ual-scatter",
-  "version": "10.3.0",
+  "version": "10.3.1",
   "main": "dist/index.js",
   "license": "MIT",
   "author": {
